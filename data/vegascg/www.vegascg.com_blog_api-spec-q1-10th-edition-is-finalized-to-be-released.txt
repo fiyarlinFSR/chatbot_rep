@@ -1,0 +1,649 @@
+ 
+
+
+
+
+
+API Spec Q1, 10th Edition is finalized to be released - Vegas Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vegas CG
+
+
+
+
+
+Consultancy
+
+
+
+
+
+Our Approach
+Discover how we help Oil and Gas companies to achieve regulatory compliance and certification 
+
+
+
+                          
+						 Know the changes
+
+
+
+By Certification
+
+
+
+
+
+
+API Spec Q1 Consulting
+
+
+
+QMS for manufacturing organizations to the Petroleum and Natural Gas industry.
+
+
+
+
+
+
+
+
+
+
+API Spec Q2 Consulting
+
+
+
+QMS for service supply organizations to the Petroleum and Natural Gas industry.
+
+
+
+
+
+
+
+
+
+
+API Monogram Consulting
+
+
+
+Designed to facilitate the consistant manufacturing of Product that confirms to applicable Oil Product Specifications.
+
+
+
+
+
+
+
+
+Overview
+
+API Spec Q1
+API Spec Q2
+API Monogram
+
+
+
+Industry Expert
+
+API Spec Q1 Consultant
+API Spec Q2 Consultant
+API Monogram Consultant
+
+
+
+
+
+
+
+
+
+
+
+ISO Certification
+
+
+
+
+
+Our Approach
+Management systems certification lets organizations master the past, lead with the present and are ready for the future. 
+
+
+- By Certifications
+
+ ISO 9001:2015 Certification
+ ISO 14001:2015 Certification
+ ISO 45001:2018 Certification
+ ISO 20121:2012 Certification
+ ISO 50001:2015 Certification
+ AS9100D:2018 Certification
+ IATF 16949:2016 Certification
+ ISO 39001:2012 Certification
+ ISO 20000-1:2013 Certification
+ ISO 27001:2013 Certification
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+
+
+
+- By Services
+
+ Consultancy
+ Auditing
+ Training
+ Design and Engineering
+ ISO Certification
+ Inspection Testing
+ NC Closure
+ API QMS Maintenance
+
+
+
+
+- By Sectors
+
+ Oil and Gas
+
+
+
+
+- By Workflow
+
+ API Consultancy Process
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+ About Us
+
+
+
+
+
+ Contact Us
+
+
+
+
+
+ Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact@vegascg.com
+UAE: +971 52 777 3484
+OMN: +968 7933 8455
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get a Quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+API Spec Q1 10th Edition
+
+
+API Spec Q1, 10th Edition is finalized to be released
+
+August 30, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The revision process for API Spec Q1 9th Edition to 10th underway, based on the general feedbacks API Spec Q1 10th Edition may expect for public usage for end of Quarter 2023, and expected a year for implementation and transition and meet the compliance.
+The forecasted changes on the standard places a strong emphasis on risk identification, assessment, and mitigation as integral components of its requirements. It also highlights the essentiality of leadership commitment, customer focus, and continuous improvement to achieve efficient and effective operations.
+Anticipated API Spec Q1 changes from 9th Edition to API Spec Q1 10th Edition
+Based on Ballot draft copy published on API spec Q1 10th Edition, Lets have closer look at the key changes that may be expected.
+
+
+
+Changes
+10th Edition
+Effected Documents
+
+
+Title Change
+Quality Management System Requirements for Product-Related Organizations for the Petroleum and Natural Gas Industry
+Note: QMS Manual, Master List of External origin documents
+
+
+4.1.4 Planning in the QMS
+Addition requirements has been added for Planning in the QMS in this 10th Edition
+
+
+
+4.2.3 Management Representative
+The new edition has addition responsibilities for MR.
+MR Appointment Letter and Job description
+
+
+4.3.1.2 Organization Knowledge
+This new version added a new requirement to determine, accessible and maintain Organization Knowledge.
+
+
+
+4.4.3 Control of Internal Documents
+New requirement added in Procedure for control of document
+Some effected documents are procedure for control of internal documents
+
+
+4.4.4 Control and use of external documents
+Specifies the procedure contents for control of external documents in more detail compared to old edition.
+Effects many documents
+
+
+4.5 Control of Records
+New edition added controls for records when any “alterations” are made to it.
+Procedure for control of Records
+
+
+5.4.2 Design and Development Inputs
+New design input is added in API Spec Q1 10th Edition
+Procedure for design and development Design & Development Input forms
+
+
+5.6.1.1 Purchasing Procedure
+The 10th Edition now mandates the inclusion of specific controls which encompass Supplier Evaluation, re-evaluation, and record-keeping, particularly in cases where the supplier is specified by a customer contract.
+1. Procedure for Supplier Management and Purchasing
+2. Supplier initial evaluation and re-evaluation form
+3. Approved Supplier List
+
+
+5.6.1.2 Initial Supplier Evaluation – Critical Purchases
+An important NOTE is added for facilities transitioning to API Spec Q1 10th Edition
+1. Procedure for Supplier Management and Purchasing
+2. Supplier initial evaluation and re-evaluation form
+3. Approved Supplier List
+
+
+5.6.2 Purchasing Information
+New requirement added for purchasing information for “approval requirements for product release“.
+1. Procedure for Supplier Management and Purchasing
+2. Purchasing Information
+3. Material Specification
+
+
+5.8 Control of Testing, Measuring, Monitoring, and Detection Equipment (TMMDE)
+This latest edition adds new type of equipment such as “Detection Equipment”
+Procedure for Control of TMMDE
+
+
+5.11 Management of Change
+New Requirement to maintain a procedure for controlling MOC process is included in API Spec Q1 10th Edition
+1. Procedure for Control of MOC
+2. MOC Form
+
+
+6.2.2 Internal Audit
+Added requirement for critical processes for production and servicing
+Procedure for Internal Audit
+
+
+6.4.2 Corrective Actions
+New Edition removed the requirements for Preventive Action
+1. Procedure for CAPA
+2. CAPA Report
+
+
+
+API Spec Q1 Certification, specifically designed for the oil and gas industry, proves its effectiveness in risk management, leadership, and continuous improvement. It enjoys widespread recognition and acceptance within the industry, offering significant benefits to organizations that adopt it.
+Disclaimer: The information provided regarding the anticipated changes from the API Spec Q1 9th Edition to API Spec Q1 10th Edition is based on ballot draft publications and industry insights. Please note that these changes may or may not be implemented in the final edition. Stay tuned for official updates and up-to-date information.
+
+
+
+
+
+API Spec Q1 10th Edition
+API Spec Q1 10th Edition release date
+API Spec Q1 10th Edition announcement
+
+
+
+
+
+ Share 
+
+Twitter
+Facebook
+Linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vegas Consulting was designed to help oil and gas companies achieve API quality management system and compliance quickly and with affordable cost.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get in Touch
+#309, 2nd Floor, Al Reyami Bld, Al Karama, Dubai, UAE.
+
+contact@vegascg.com
+UAE: +971 52 777 3484
+OMN: +968 7816 2828
+INDIA: +91 90420 64300
+SG: +65 9457 0514
+
+
+
+
+
+
+
+More Information
+
+About Us
+API Consultancy
+ISO Certification
+Inspection & Testing
+Blog
+Contact
+Careers
+
+
+
+
+
+
+
+Our Newsletter
+Subscribe to our newsletter to get standard updates and trends.
+
+
+
+
+
+
+
+Email Address
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2023 Vegas Consulting Group.
+
+API FAQ
+Privacy Policy
+Terms and Conditions
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

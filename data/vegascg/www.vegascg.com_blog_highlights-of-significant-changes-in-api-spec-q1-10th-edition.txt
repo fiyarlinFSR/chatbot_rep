@@ -1,0 +1,665 @@
+ 
+
+
+
+
+
+Highlights of Significant changes in API Spec Q1 10th Edition - Vegas Consulting
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vegas CG
+
+
+
+
+
+Consultancy
+
+
+
+
+
+Our Approach
+Discover how we help Oil and Gas companies to achieve regulatory compliance and certification 
+
+
+
+                          
+						 Know the changes
+
+
+
+By Certification
+
+
+
+
+
+
+API Spec Q1 Consulting
+
+
+
+QMS for manufacturing organizations to the Petroleum and Natural Gas industry.
+
+
+
+
+
+
+
+
+
+
+API Spec Q2 Consulting
+
+
+
+QMS for service supply organizations to the Petroleum and Natural Gas industry.
+
+
+
+
+
+
+
+
+
+
+API Monogram Consulting
+
+
+
+Designed to facilitate the consistant manufacturing of Product that confirms to applicable Oil Product Specifications.
+
+
+
+
+
+
+
+
+Overview
+
+API Spec Q1
+API Spec Q2
+API Monogram
+
+
+
+Industry Expert
+
+API Spec Q1 Consultant
+API Spec Q2 Consultant
+API Monogram Consultant
+
+
+
+
+
+
+
+
+
+
+
+ISO Certification
+
+
+
+
+
+Our Approach
+Management systems certification lets organizations master the past, lead with the present and are ready for the future. 
+
+
+- By Certifications
+
+ ISO 9001:2015 Certification
+ ISO 14001:2015 Certification
+ ISO 45001:2018 Certification
+ ISO 20121:2012 Certification
+ ISO 50001:2015 Certification
+ AS9100D:2018 Certification
+ IATF 16949:2016 Certification
+ ISO 39001:2012 Certification
+ ISO 20000-1:2013 Certification
+ ISO 27001:2013 Certification
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+
+
+
+- By Services
+
+ Consultancy
+ Auditing
+ Training
+ Design and Engineering
+ ISO Certification
+ Inspection Testing
+ NC Closure
+ API QMS Maintenance
+
+
+
+
+- By Sectors
+
+ Oil and Gas
+
+
+
+
+- By Workflow
+
+ API Consultancy Process
+
+
+
+
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+ About Us
+
+
+
+
+
+ Contact Us
+
+
+
+
+
+ Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contact@vegascg.com
+UAE: +971 52 777 3484
+OMN: +968 7933 8455
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get a Quote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AP Spec Q1 10th Edition
+
+
+Highlights of Significant changes in API Spec Q1 10th Edition
+
+September 22, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+API Q1 10th edition being published on 18th September 2023, the release of the API Spec Q1 10th edition specification, where the scope definitions and requirements has undergone significant changes. This blog provides a comprehensive comparison between the API Spec Q1 9th to API Spec Q1 10th editions, From Clause 1 – Clause 3 of the specification highlighting the modifications, elaborations, and additions in terminologies and practices.
+1. Scope
+API Spec Q1 9th Edition: The focus was primarily on organizations involved in manufacturing and related processes for oil & gas.
+API Spec Q1 10th Edition: The scope has broadened to encompass organizations involved in products for use in the oil and gas sector. This shift emphasizes the industry’s direction towards product-centered solutions.
+That Includes organization offering product related activities associated with product related activities such as:servicing, storage, engineering, software, distribution, and logistics involved as product related activities
+
+
+
+Term
+9th Edition
+10th Edition
+
+
+Acceptance Criteria
+Specified limits of acceptability applied to process or product characteristics
+Specified requirements of acceptability applied to product or process characteristics
+
+
+Calibration
+Comparison to a standard of known accuracy and making any needed adjustments.
+Process of comparison to a standard of known accuracy, comparison of results against TMMDE acceptance criteria and making needed adjustments. Note: Non-calibratable equipment are referred to as verification
+
+
+Compliance
+Act or Process of satisfying the legal and other applicable requirements of a regulation or regulatory body.
+Act of satisfying or status of satisfied requirements.
+
+
+Critical
+That deemed by the organization, product specification, or customer as mandatory, indispensable or essential, needed for a stated purpose or task and requiring specific action.
+Deemed by the organization, product specification, or customer to be of significant importance and requiring specific action.
+
+
+Design Acceptance Criteria
+Define limits placed on characteristics of materials, products, or service established by the organization, customer, and/or applicable specification to achieve conformity to product design
+Requirements applied to characteristics or combinations of those characteristics, of materials, products, or components to achieve conformity to specified design requirements and/or required design performance
+
+
+Design Validation
+Process of proving a design by testing to demonstrate conformity to the design requirements. Sub-section
+(b): Functional and/or operational test of production products.
+Process of proving a design by testing to demonstrate that the product conforms to design requirements and performs as intended. Sub-section
+(b): Functional and/or operational test.
+
+
+Design Verification
+Process of examining the result of design and development outputs to determine conformity with specified requirements. Sub-section
+(b): Review of design output documents independent of design activities
+Process of examining design outputs to determine conformity with specified requirements. Sub-section
+(b): Review of design output documents resulting from design
+
+
+Legal Requirement
+Person or group defined by the organization with varied responsibilities and a note distinguishing between top management and management.
+Statutory or regulatory requirements
+
+
+Management
+The 10th Edition now mandates the inclusion of specific controls which encompass Supplier Evaluation, re-evaluation, and record-keeping, particularly in cases where the supplier is specified by a customer contract.
+A person or group with authority and responsibility for the conduct and control of all or part of an organization.
+
+
+Manufacturing Acceptance Criteria
+Defined limits placed on characteristics of materials, products, and services by the organization for manufacturing or servicing requirements
+MAC – Requirements applied to characteristics or combinations of characteristics of materials, products, or components to achieve conformity to DAC and other product manufacturing requirements.
+
+
+Preventive Maintenance
+Planned action to minimize equipment failure and unscheduled interruptions.
+Systematic servicing of equipment, machines, and/or facilities for the purpose of maintaining a satisfactory operating condition
+
+
+Procedure
+Organization’s method for performing an activity under controlled conditions to achieve conformity with a note mentioning its previous status as a “control feature”.
+Organization’s method for performing an activity under controlled conditions with additional notes indicating its form variations and its previous status
+
+
+Product
+(Newly Added)
+N/A
+Output of an organization intended for a customer, encompassing various facets such as hardware, software, and logistics.
+
+
+Product Realization (Newly Added)
+N/A
+Set of interrelated or interacting activities necessary to provide a product.
+
+
+Remote Assessment (Newly Added)
+N/A
+Assessment conducted by individuals not physically present at the location being assessed.
+
+
+Risk
+Situation or circumstance with likelihood and potentially negative consequences.
+Situation or circumstance with probability and potentially negative consequences.
+
+
+Servicing
+Product maintenance, adjustment, repair, and/or on-site installation per product specifications.
+Maintenance, adjustment, and/or repair on a product post-delivery, including on-site installation.
+
+
+
+In Conclusion:
+The API Spec Q1 10th edition’s changes reflect the Oil & Gas industry’s ongoing evolution, adapting to technological advancements, operational necessities, and market demands. Staying updated with these shifts is imperative for professionals and organizations aiming for growth, compliance, and efficiency.
+Talk to Our Regional Representative for more information on the efforts and timeline for the completing the Transition
+Middel East & Norther Africa : 
+Email : contact@vegascg.com
+UAE: +971 527773484 | MCT : +968 7933 0216
+Asia Pacific : 
+Email : contact@vegascg.com
+SIN : +65 81574202 | IND : +91 9042064300
+Stay Tuned for more clauses difference in change  !
+
+
+
+
+
+AP Spec Q1 10th Edition
+AP Spec Q1 10th Edition Highlights
+API Spec Q1 10th Edition changes
+
+
+
+
+
+ Share 
+
+Twitter
+Facebook
+Linkedin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vegas Consulting was designed to help oil and gas companies achieve API quality management system and compliance quickly and with affordable cost.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get in Touch
+#309, 2nd Floor, Al Reyami Bld, Al Karama, Dubai, UAE.
+
+contact@vegascg.com
+UAE: +971 52 777 3484
+OMN: +968 7816 2828
+INDIA: +91 90420 64300
+SG: +65 9457 0514
+
+
+
+
+
+
+
+More Information
+
+About Us
+API Consultancy
+ISO Certification
+Inspection & Testing
+Blog
+Contact
+Careers
+
+
+
+
+
+
+
+Our Newsletter
+Subscribe to our newsletter to get standard updates and trends.
+
+
+
+
+
+
+
+Email Address
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2023 Vegas Consulting Group.
+
+API FAQ
+Privacy Policy
+Terms and Conditions
+Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
